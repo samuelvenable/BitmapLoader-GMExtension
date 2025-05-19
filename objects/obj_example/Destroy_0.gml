@@ -1,0 +1,1 @@
+if (sprite_exists(spr_bitmap)) sprite_delete(spr_bitmap);
